@@ -53,4 +53,3 @@ report bugs or suggest features using **github issues**.
 this client is **not stable** and not recommended for daily use yet.
 features, behavior, and performance may change at any time.
 
-just tell me the vibe 😎
