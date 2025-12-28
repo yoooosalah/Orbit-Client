@@ -2,7 +2,7 @@
 ![image](https://github.com/yoooosalah/Orbit-Client/blob/main/Design%20sans%20titre.png)
 
 
-A lightweight **Minecraft 1.21.8** client focused on clean UI, performance, and built-in PvP/QoL features.
+A lightweight **Minecraft 1.21.1** client focused on clean UI, performance, and built-in PvP/QoL features.
 
 ⚠️ **Status:** early development / very unfinished
 expect bugs, missing features, and frequent changes.
